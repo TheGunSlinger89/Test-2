@@ -1,0 +1,67 @@
+
+.mainhead {
+    background-color:#1f2937;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}   
+ 
+li {
+    display: inline;
+    margin: 10px;
+    list-style-type: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.image {
+    width: 250px
+}
+
+.thead {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    height: 100px;
+    width: 400px;
+    margin: 0;
+    padding: 0 20px 15px 0;
+}
+
+.tsub {
+    font-size: 18px;
+    color: #e5e7eb;
+    height: 100px;
+    width: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up {
+    width: fit-content;
+    height: 30px;
+    background-color: #0400f0;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0;
+    padding: 10;
+}
