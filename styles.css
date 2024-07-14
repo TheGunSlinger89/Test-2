@@ -65,3 +65,27 @@ li {
     margin: 0;
     padding: 10;
 }
+
+.image2 {
+    width: 175px;
+}
+
+.pictext {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-top: 50px;
+}
+
+.sec2img {
+    display: flex;
+    flex-direction: inline;
+    justify-content: center;
+    margin: 5px;
+}
+
+figcaption {
+   width: 175px;
+   text-align: center;
+}
