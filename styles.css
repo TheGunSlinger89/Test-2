@@ -1,8 +1,9 @@
 
-.mainhead {
+.mainhead, footer {
     background-color:#1f2937;
     color: white;
     padding-bottom: 40px;
+    text-align: center;
 }
 
 .top {
@@ -146,4 +147,7 @@ figcaption {
 
 .chead {
     margin-bottom:  -15px;
+}
+.copywright {
+    padding: 30px;
 }
