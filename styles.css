@@ -68,6 +68,7 @@ li {
 
 .image2 {
     width: 175px;
+    height: 175px;
 }
 
 .pictext {
@@ -88,4 +89,61 @@ li {
 figcaption {
    width: 175px;
    text-align: center;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    
+}
+
+.quoter {
+    font-weight: bold;
+    font-size: 25;
+
+}
+
+.quotetxt {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+
+}
+
+.callbox {
+    border: solid;
+    height:100px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #2a27df;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.joinme{
+    width: 100px;
+    height: 40px;
+    background-color: #0400f0;
+    border: white solid;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+
+}
+
+.call {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.chead {
+    margin-bottom:  -15px;
 }
